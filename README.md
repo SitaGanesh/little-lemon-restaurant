@@ -1,3 +1,8 @@
+I'm facing a frustrating issue with my website that I've diligently developed and maintained. Despite successfully completing the project without errors, I'm now unable to access it due to complications arising from recent software updates, particularly during the final package installation.
+Whether how much i try, i cant resolve the vulnerability of what i get.
+
+This unexpected setback has left me unable to showcase my hard work as intended.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
